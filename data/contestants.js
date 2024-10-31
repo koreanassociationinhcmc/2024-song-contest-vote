@@ -1,0 +1,17 @@
+export const contestants = [
+  { id: 1, name: "조용필", performanceNumber: 1, imageUrl: "/images/contestant1.jpg", song: "단발머리" },
+  { id: 2, name: "이선희", performanceNumber: 2, imageUrl: "/images/contestant2.jpg", song: "아름다운 강산" },
+  { id: 3, name: "나훈아", performanceNumber: 3, imageUrl: "/images/contestant3.jpg", song: "테스형" },
+  { id: 4, name: "양희은", performanceNumber: 4, imageUrl: "/images/contestant4.jpg", song: "늘 그대를" },
+  { id: 5, name: "김범수", performanceNumber: 5, imageUrl: "/images/contestant5.jpg", song: "보고싶다" },
+  { id: 6, name: "임재범", performanceNumber: 6, imageUrl: "/images/contestant6.jpg", song: "너를 위해" },
+  { id: 7, name: "이문세", performanceNumber: 7, imageUrl: "/images/contestant7.jpg", song: "광화문연가" },
+  { id: 8, name: "박정현", performanceNumber: 8, imageUrl: "/images/contestant8.jpg", song: "미아" },
+  { id: 9, name: "윤도현", performanceNumber: 9, imageUrl: "/images/contestant9.jpg", song: "사랑두개" },
+  { id: 10, name: "이승철", performanceNumber: 10, imageUrl: "/images/contestant10.jpg", song: "서쪽하늘" },
+  { id: 11, name: "김연우", performanceNumber: 11, imageUrl: "/images/contestant11.jpg", song: "후회할거야" },
+  { id: 12, name: "서인국", performanceNumber: 12, imageUrl: "/images/contestant12.jpg", song: "너의 의미" },
+  { id: 13, name: "하현우", performanceNumber: 13, imageUrl: "/images/contestant13.jpg", song: "시차" },
+  { id: 14, name: "김경호", performanceNumber: 14, imageUrl: "/images/contestant14.jpg", song: "와인" },
+  { id: 15, name: "소향", performanceNumber: 15, imageUrl: "/images/contestant15.jpg", song: "난치명적인독이야" },
+];
